@@ -1,0 +1,26 @@
+{
+  "Light": {
+    "background_color": [255, 255, 255],
+    "font_color": [0, 0, 0],
+    "p1_color": [0, 0, 0],
+    "p2_color": [202, 202, 202],
+    "button_color": [0, 200, 0],
+    "button_hover_color": [0, 255, 0],
+    "grid_color": [0, 0, 0],
+    "x_color": [255, 0, 0],
+    "o_color": [0, 0, 255],
+    "highlight_color": [124, 252, 0]
+  },
+  "Dark": {
+    "background_color": [25, 25, 25],
+    "font_color": [220, 220, 220],
+    "p1_color": [220, 220, 220],
+    "p2_color": [128, 128, 128],
+    "button_color": [0, 120, 0],
+    "button_hover_color": [0, 180, 0],
+    "grid_color": [255, 255, 255],
+    "x_color": [255, 102, 102],
+    "o_color": [102, 102, 255],
+    "highlight_color": [124, 252, 0]
+  }
+}
